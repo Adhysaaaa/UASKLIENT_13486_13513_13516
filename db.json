@@ -1,0 +1,84 @@
+{
+  "aids": [
+    {
+      "id": "6f1f",
+      "name": "supri",
+      "description": "Banjir",
+      "amount": "90000000",
+      "date": "2024-07-01",
+      "location": "Jonggol"
+    },
+    {
+      "id": "6a43",
+      "name": "Yanto",
+      "description": "Longsor",
+      "amount": "80000000",
+      "date": "2024-07-01",
+      "location": "semarang"
+    },
+    {
+      "id": "9151",
+      "name": "Megayanto",
+      "description": "Tsunami",
+      "amount": "70000000",
+      "date": "2024-07-02",
+      "location": "Zimbabwe"
+    },
+    {
+      "id": "97bd",
+      "name": "Megayanto",
+      "description": "Tsunami",
+      "amount": "50000000",
+      "date": "2024-07-03",
+      "location": "Zimbabwe"
+    },
+    {
+      "id": "18d3",
+      "name": "joko",
+      "description": "longsor",
+      "amount": "20000000",
+      "date": "2024-07-02",
+      "location": "Afrika"
+    },
+    {
+      "id": "1b29",
+      "name": "joko",
+      "description": "Banjir",
+      "amount": "20000000",
+      "date": "2024-07-03",
+      "location": "Afrika"
+    },
+    {
+      "id": "fc9f",
+      "name": "joko",
+      "description": "Longsor",
+      "amount": "50000000",
+      "date": "2024-06-01",
+      "location": "Zimbabwe"
+    },
+    {
+      "id": "fb95",
+      "name": "yanto",
+      "description": "Longsor",
+      "amount": "3000000000",
+      "date": "2024-07-03",
+      "location": "Afrika"
+    },
+    {
+      "id": "32ae",
+      "name": "supri",
+      "description": "Gempa",
+      "amount": "1000000000",
+      "date": "2024-07-03",
+      "location": "semarang"
+    },
+    {
+      "id": "187b",
+      "name": "Megayanto",
+      "description": "Kebakaran",
+      "amount": "4000000000",
+      "date": "2024-07-02",
+      "location": "Jogja"
+    }
+  ]
+}
